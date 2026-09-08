@@ -40,24 +40,6 @@
 
 [![dotenv](https://img.shields.io/badge/dotenv-464646?logo=dotenv&logoColor=white)](https://github.com/motdotla/dotenv)
 
-## Plain docs links 
-
-- JavaScript (MDN) docs: [https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- ECMAScript (spec, ECMA-262) docs: [https://www.ecma-international.org/publications-and-standards/standards/ecma-262/](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
-- TypeScript docs: [https://www.typescriptlang.org/docs/](https://www.typescriptlang.org/docs/)
-- Node.js docs: [https://nodejs.org/](https://nodejs.org/)
-- Express docs: [https://expressjs.com/](https://expressjs.com/)
-- React docs: [https://react.dev/](https://react.dev/)
-- bcrypt docs: [https://www.npmjs.com/package/bcrypt](https://www.npmjs.com/package/bcrypt)
-- cors docs: [https://www.npmjs.com/package/cors](https://www.npmjs.com/package/cors)
-- jsonwebtoken (JWT) docs: [https://www.npmjs.com/package/jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
-- helmet (npm / docs): https://www.npmjs.com/package/helmet
-- morgan (npm / docs): https://www.npmjs.com/package/morgan
-- PostgreSQL docs: [https://www.postgresql.org/](https://www.postgresql.org/)
-- Zod docs: https://zod.dev/  
-- Zod gitHub: https://github.com/colinhacks/zod
-- dotenv docs: [https://github.com/motdotla/dotenv](https://github.com/motdotla/dotenv)
-
 ---
 
 A production-ready, enterprise-grade **Vehicle Rental Management REST API** built with Express.js, TypeScript, and PostgreSQL. Designed with modern architectural patterns, robust security, and comprehensive error handling.
